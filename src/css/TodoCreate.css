@@ -1,0 +1,24 @@
+.todo-create-parent{
+    margin-top: 30px;
+    width: 500px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-end;
+    gap: 8px;
+}
+.todo-input{
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    width: 100%;   
+}
+.todo-create-button{
+    padding: 2px 8px;
+    cursor: pointer;
+    background: GOLD;
+    border: none;
+    color: #000;
+
+}
